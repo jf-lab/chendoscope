@@ -1,9 +1,14 @@
-# CHEndoscope
+# CHEndoscope Overview
+### Contents
+
+- [Acquiring images with your CHEndoscope](#chendoscope-acquisition) 
+	- [Installing acquisition code](#installation-windows)
+	- [Running the acquisition software](#to-run-windows)
 
 1. Assembly of your CHEndoscope
-2. Acquiring calcium imaging videos with your CHEndoscope: [acquisition](ttps://github.com/jf-lab/chendoscope)
 3. Analysis of calcium imaging videos: [jflab-minipipe](https://github.com/jf-lab/jflab-minipipe)
 
+# CHEndoscope assembly
 
 # CHEndoscope acquisition
 
