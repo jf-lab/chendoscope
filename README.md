@@ -1,19 +1,19 @@
 # CHEndoscope Overview
 ### Contents
-
-- [Acquiring images with your CHEndoscope](#chendoscope-acquisition) 
+1. [Assembling your CHEndoscope](#assembling-your-chendoscope)
+2. [Acquiring images with your CHEndoscope](#acquiring-images-with-your-chendoscope) 
 	- [Installing acquisition code](#installation-windows)
 	- [Running the acquisition software](#to-run-windows)
 
-1. Assembly of your CHEndoscope
-3. Analysis of calcium imaging videos: [jflab-minipipe](https://github.com/jf-lab/jflab-minipipe)
 
-# CHEndoscope assembly
+3. Analysis of calcium imaging videos: [CHEndoscope-minipipe](https://github.com/jf-lab/chendoscope-minipipe)
+
+# Assembling your CHEndoscope
 The CHEndoscope consists of 4 plastic components that can be 3D printed
 
 ![3D printed components of the CHEndoscope](printed-parts.png)
 
-# CHEndoscope acquisition
+# Acquiring images with your CHEndoscope
 
 CHEndoscope acquisition software allows you to capture video from the CHEndoscope's Ximea USB camera.
 
