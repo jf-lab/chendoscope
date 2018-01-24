@@ -10,6 +10,7 @@
 
 # CHEndoscope assembly
 The CHEndoscope consists of 4 plastic components that can be 3D printed
+
 ![3D printed components of the CHEndoscope](printed-parts.png)
 
 # CHEndoscope acquisition
