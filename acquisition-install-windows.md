@@ -26,7 +26,7 @@
 	-> python should not complain about any errors
 
 5. Download CHEndoscope acquisition code
-	- Go to https://github.com/cyanut/scope-recorder, download the code as zip
+	- Download [vid.py](./vid.py) from this repo
 	- extract the code to a directory 
 
 6. Download ffmpeg
@@ -38,7 +38,7 @@
 	- Click "environment variables ..."
 	- In the new dialog, select the "Path" variable, click on "edit"
 	- Put in the path for ffmpeg
-8. Test
+8. Test ffmpeg installation
 	- In a command line, type `ffmpeg`. It should show a bunch of stuff but not complain about unable to find "ffmpeg"
 
 9. Install nmap (to communicate with the recorder for changing gain, exposure etc.)
