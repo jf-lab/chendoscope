@@ -33,7 +33,7 @@ In order to capture images from the CHEndoscope, you will need to install acquis
 
 1. Open a new cmd window
     - `cd [path for storing video files]`
-    - `python "path\to\scope-recorder-master\vid.py"`
+    - `python "path\to\vid.py"`
 
 2. To change gains/exposure etc:
     - Open a second cmd window and run 
