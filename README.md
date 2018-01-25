@@ -1,6 +1,6 @@
 # CHEndoscope Overview
 
-Complete instructions on how to use the CHEndoscope, including assembly, surgery, behavioural protocols and data analysis can be in the CHEndoscope protocols paper [biorxiv link]
+Complete instructions on how to use the CHEndoscope, including assembly, surgery, behavioural protocols and data analysis can be in the [CHEndoscope protocols paper](https://www.biorxiv.org/content/early/2018/01/24/252205).
 
 1. [Assembling your CHEndoscope](#assembling-your-chendoscope)
 2. [Acquiring images with your CHEndoscope](#acquiring-images-with-your-chendoscope) 
